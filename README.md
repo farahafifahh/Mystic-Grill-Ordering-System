@@ -1,4 +1,4 @@
-# Mystic-Grill-Ordering-System
+# Mystic Grill Ordering System
 
 ## Functional
 Food ordering systes has 2 users manager and customer
